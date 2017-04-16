@@ -1,3 +1,5 @@
+> Boilerplate for some recipes in Vue.js 2 Cookbook
+
 # vue-webpack-boilerplate
 
 > A full-featured Webpack setup with hot-reload, lint-on-save, unit testing & css extraction.
